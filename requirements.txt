@@ -1,0 +1,6 @@
+Flask==1.1.2
+Werkzeug==1.0.1
+aiohttp==3.6.2
+pytchat==0.0.7.1
+requests==2.23.0
+
